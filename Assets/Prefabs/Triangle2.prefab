@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 212000012596701576}
   - component: {fileID: 4385812904576232477}
   - component: {fileID: -4179479777691646256}
+  - component: {fileID: 2375595575100694994}
   m_Layer: 0
   m_Name: Triangle2
   m_TagString: Enemy
@@ -189,3 +190,16 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &2375595575100694994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012490942172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74d0b54d8a1cc664c898b7b182b164fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0
