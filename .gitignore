@@ -27,3 +27,4 @@ sysinfo.txt
 *.stackdump
 /Temp
 /temp
+/Library
